@@ -1,0 +1,28 @@
+body{
+  background-color: #ffb385;
+  background-image:image("img_tree.gif");
+}
+h1{
+  color: #d63447;
+}
+h3{
+  color: #363636;
+}
+h2{
+  color: #363636;
+}
+hr{
+  background-color:#ffb385;
+  border-style: dotted none none;
+  border-color: grey;
+  border-width: 5px;
+  width: 10%;
+}
+.info{
+  background-color:#aacfcf ;
+  border-style: solid;
+
+}
+.sub{
+  background-color: antiquewhite;
+}
